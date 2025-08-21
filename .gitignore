@@ -1,0 +1,46 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+gradle-app.setting
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Firebase and Google keys
+*.json  # кроме файлов которые нужны для сборки
+google-services.json
+service_account_key.json
+app/google-services.json
+app/*.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Intellij
+*.iml
+.idea/
+.navigation/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log*
