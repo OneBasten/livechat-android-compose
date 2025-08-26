@@ -59,3 +59,49 @@
 
 Для работы push-уведомлений необходим собственный сервер. Инструкции по его настройке и запуску смотрите в репозитории [livechat-server](https://github.com/OneBasten/livechat-server).
 
+## Скриншоты
+
+|      requestNotificationPermission   |            SignUp Screen             |                Login Screen               |                Calendar                   |
+| :----------------------------------: | :----------------------------------: | :---------------------------------------: | :---------------------------------------: |
+| ![](screenshots/notifications.png)   | ![](screenshots/signup.png)          |        ![](screenshots/login.png)         |        ![](screenshots/calendar.png)      |
+
+|            Profile Screen           |                Change Email                |                Delete account            |
+| :----------------------------------:| :---------------------------------------:  | :---------------------------------------:|
+| ![](screenshots/profilescreen.png)  |        ![](screenshots/changeemail.png)    |      ![](screenshots/deleteaccount.png)  | 
+
+|            Chat Screen              |                Single Chat Screen         |                User Blocking             |
+| :----------------------------------:| :---------------------------------------: | :---------------------------------------:|
+| ![](screenshots/chatscreen.png)     |        ![](screenshots/singlechat.png)    |      ![](screenshots/profileblock.png)   | 
+
+|            City Screen              |                Profile Info               |           
+| :----------------------------------:| :---------------------------------------: |
+| ![](screenshots/cityscreen.png)     |   ![](screenshots/profileinfochat.png)    |   
+
+|            Department Screen          |                Department Chat           |           
+| :----------------------------------:  | :---------------------------------------:|
+| ![](screenshots/departmentscreen.png) |   ![](screenshots/departmentchat.png)    | 
+
+## Скриншоты (темная тема)
+
+|            SignUp Screen             |                Login Screen               |
+| :----------------------------------: | :---------------------------------------: |
+| ![](screenshots/signupblack.png)     |        ![](screenshots/loginblack.png)    |
+
+|            Profile Screen           |                Change Email                |                Delete account            |
+| :----------------------------------:| :---------------------------------------:  | :---------------------------------------:|
+| ![](screenshots/profilescreenblack.png)  |        ![](screenshots/changeemailblack.png)    |      ![](screenshots/deleteaccountblack.png)  | 
+
+|            Chat Screen              |                Single Chat Screen         |                User Blocking             |
+| :----------------------------------:| :---------------------------------------: | :---------------------------------------:|
+| ![](screenshots/chatscreenblack.png)     |        ![](screenshots/singlechatblack.png)    |      ![](screenshots/profileblockblack.png)   | 
+
+|            City Screen               |                Profile Info               |           
+| :----------------------------------: | :---------------------------------------: |
+| ![](screenshots/cityscreenblack.png) |   ![](screenshots/profileinfochatblack.png)    |   
+
+|            Department Screen               |                Department Chat            |           
+| :----------------------------------:       | :---------------------------------------: |
+| ![](screenshots/departmentscreenblack.png) |   ![](screenshots/departmentchatblack.png)| 
+
+
+
