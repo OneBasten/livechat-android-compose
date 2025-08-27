@@ -63,7 +63,7 @@
 
 |      requestNotificationPermission   |            SignUp Screen             |                Login Screen               |                Calendar                   |
 | :----------------------------------: | :----------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| ![](screenshots/notifications.png)   | ![](screenshots/signup.png)          |        ![](screenshots/login.png)         |        ![](screenshots/calendar.png)      |
+| <img src="screenshots/notifications.png" width="230">   | <img src="screenshots/signup.png" width="300">          |        <img src="screenshots/login.png" width="300">         |        <img src="screenshots/calendar.png" width="300">      |
 
 |            Profile Screen           |                Change Email                |                Delete account            |
 | :----------------------------------:| :---------------------------------------:  | :---------------------------------------:|
